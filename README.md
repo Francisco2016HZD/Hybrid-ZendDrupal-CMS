@@ -1,2 +1,2 @@
 # Hybrid-ZendDrupal-CMS
-Contribucioones al desarrollo del sistema
+Contribuciones al desarrollo del sistema
